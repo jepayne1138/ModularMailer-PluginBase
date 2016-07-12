@@ -7,5 +7,5 @@ class FileDriverBase(abc.ABC):
         pass
 
     @abc.abstractmethod
-    def read(self, filename, *args, **kwargs):
+    def read(self, filename, **kwargs):
         pass
