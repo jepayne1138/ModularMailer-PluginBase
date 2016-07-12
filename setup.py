@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='ModularMailer-PluginBase',
-    packages=['plugin_base'],
+    packages=['mmpluginbase'],
     version='0.0a1',
     description='ModularMailer plugin base class definition',
     author='James Payne',
